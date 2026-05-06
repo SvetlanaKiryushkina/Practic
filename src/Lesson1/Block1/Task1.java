@@ -6,7 +6,7 @@ public class Task1 {
         int value1 = 10+12;
         int value2 = 88;
 
-        double x = (double) value2 / value1;
+        int x = value2 / value1;
 
         System.out.println("Значение х =" + x);
     }
