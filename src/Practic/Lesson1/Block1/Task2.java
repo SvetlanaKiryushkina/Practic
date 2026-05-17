@@ -1,4 +1,4 @@
-package Lesson1.Block1;
+package Practic.Lesson1.Block1;
 
 import java.util.Scanner;
 
