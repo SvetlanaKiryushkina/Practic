@@ -1,4 +1,4 @@
-package Lesson1.Block1;
+package Practic.Lesson1.Block1;
 
 public class Task3 {
     public static void main (String[] args){
